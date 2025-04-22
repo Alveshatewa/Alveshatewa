@@ -5,11 +5,9 @@
 
 - Actualmente estou trabalhando em um  **Sistema de Gestão Hospitalar**
 
-- Estou estudando e aprofundando meus conhecimentos em: **Frameworks, API´S Restfull, Testes e Implantação de Software, cursos auxiliares, outros cursos.**
+- Estou estudando e aprofundando meus conhecimentos em: **Desenvolvimento Mobile com React-Native, Machine Learning e Engenharia de Prompts**
 
 - Os meus projectos estarão disponíveis em [https://www.github.com/alveshatewa](https://www.github.com/alveshatewa)
-
-- Pergunte-me sobre **Java, JavaScript, JavaSE, JavaEE, Versionamento de Software, Desenvolvimento Web e Desktop.**
 
 <h3 align="left">Conecte-se comigo em:</h3>
 <p align="left">
